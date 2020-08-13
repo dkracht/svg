@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="60">
+	<rect x="10" y="10" fill="blue" width="240" height="40"/>
+	<text x="40" y="40" style="fill:gold; font-size:20pt">
+		Hello World!
+	</text>
+</svg>
