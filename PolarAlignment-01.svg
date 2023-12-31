@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="279mm"
+   height="166mm"
+   viewBox="0 0 279 166"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="PolarAlignment-01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.92599442"
+     inkscape:cx="430.88812"
+     inkscape:cy="335.31519"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker19"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path19" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker18"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path18" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path15" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       id="path1"
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       cx="19.453568"
+       cy="98.547562"
+       r="0.39687499" />
+    <circle
+       id="path2"
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       cx="17.837242"
+       cy="99.355736"
+       r="0.39687499" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 9.3515296,98.951546 272.40865,99.759703"
+       id="path3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="216.24136"
+       y="106.6292"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="216.24136"
+         y="106.6292">Himmelsäquator</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 36.020915,124.81276 271.60048,17.327118"
+       id="path4" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="155.4292"
+       y="126.20686"
+       id="text4"
+       transform="rotate(-24.581406)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="155.4292"
+         y="126.20686">Tracking  der Montierung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="109.57404"
+       y="145.01715"
+       id="text4-5"
+       transform="rotate(-24.581406)"><tspan
+         sodipodi:role="line"
+         id="tspan4-0"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         x="109.57404"
+         y="145.01715">Drift in Deklnation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="10.820775"
+       y="154.90968"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         x="10.820775"
+         y="154.90968">PolarAlignment-01.svg       31.12.2023 Dietrich Kracht</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="79.979347"
+       y="131.38422"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="79.979347"
+         y="131.38422">Westen</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.326166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.331126,69.506156 V 120.47432"
+       id="path6" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.78708px;line-height:1.25;font-family:sans-serif;stroke-width:0.212096"
+       x="59.466114"
+       y="104.99504"
+       id="text7"
+       transform="scale(0.97387655,1.0268242)"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.212096"
+         x="59.466114"
+         y="104.99504">Δφ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.22264px;line-height:1.25;font-family:sans-serif;stroke-width:0.163207"
+       x="114.19597"
+       y="92.463585"
+       id="text7-7"
+       transform="scale(0.95449813,1.047671)"><tspan
+         sodipodi:role="line"
+         id="tspan7-7"
+         style="stroke-width:0.163207"
+         x="114.19597"
+         y="92.463585">Δφ</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;stroke:#dde600;stroke-width:0.123;stroke-linecap:round"
+       id="path7"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="29.90204"
+       sodipodi:cy="40.408165"
+       sodipodi:r1="7.4508972"
+       sodipodi:r2="3.7254486"
+       sodipodi:arg1="0.21866895"
+       sodipodi:arg2="0.84698748"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 37.17551,42.024492 -4.806316,1.17511 -1.756746,4.625516 -2.602829,-4.207949 -4.941992,-0.241402 3.197679,-3.775765 -1.297573,-4.774711 4.579104,1.874398 4.140047,-2.709532 -0.367637,4.934207 z"
+       inkscape:transform-center-x="-0.21952769"
+       inkscape:transform-center-y="0.49947185"
+       transform="translate(61.603145,59.476693)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;stroke:#dde600;stroke-width:0.123;stroke-linecap:round"
+       id="path7-0"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="29.90204"
+       sodipodi:cy="40.408165"
+       sodipodi:r1="7.4508972"
+       sodipodi:r2="3.7254486"
+       sodipodi:arg1="0.21866895"
+       sodipodi:arg2="0.84698748"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 37.17551,42.024492 -4.806316,1.17511 -1.756746,4.625516 -2.602829,-4.207949 -4.941992,-0.241402 3.197679,-3.775765 -1.297573,-4.774711 4.579104,1.874398 4.140047,-2.709532 -0.367637,4.934207 z"
+       inkscape:transform-center-x="-0.21952769"
+       inkscape:transform-center-y="0.49947185"
+       transform="translate(136.7848,58.329621)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.631634;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="M 98.746519,100.67764 H 158.16379"
+       id="path14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker19)"
+       d="m 152.64658,73.090383 9.29388,21.820367"
+       id="path16" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.687675;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker18)"
+       d="M 95.228403,96.094824 147.12716,72.039599"
+       id="path17" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.241251px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.301567,98.977206 c -0.06289,5.665944 1.446557,11.399344 3.207582,14.704484 1.761024,3.30514 1.823918,3.30514 1.823918,3.30514 v 0.1349"
+       id="path20" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="115.11678"
+       y="106.1209"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         x="115.11678"
+         y="106.1209">Bewegung</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         x="115.11678"
+         y="112.29452"
+         id="tspan21">des Sterns</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.60687px;line-height:1.25;font-family:sans-serif;stroke-width:0.246797"
+       x="61.152184"
+       y="118.99625"
+       id="text20-4"
+       transform="matrix(0.92440534,-0.41309219,0.40294978,0.90170897,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan20-5"
+         style="font-size:4.60687px;stroke-width:0.246797"
+         x="61.152184"
+         y="118.99625">Bewegung</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.60687px;stroke-width:0.246797"
+         x="61.152184"
+         y="124.75484"
+         id="tspan21-3">der Montierung</tspan></text>
+  </g>
+</svg>
