@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Rotationskurve Kepler.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="428.5"
+     inkscape:cy="426.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="310"
+       y="311"
+       width="124"
+       height="62"
+       id="rect34130" />
+    <rect
+       x="717"
+       y="252"
+       width="179"
+       height="85"
+       id="rect3208" />
+    <clipPath
+       id="clip0">
+      <rect
+         x="64"
+         y="149"
+         width="733"
+         height="460"
+         id="rect9" />
+    </clipPath>
+    <clipPath
+       id="clip1">
+      <rect
+         x="133"
+         y="204"
+         width="647"
+         height="343"
+         id="rect12" />
+    </clipPath>
+    <clipPath
+       id="clip0-3">
+      <rect
+         x="64"
+         y="149"
+         width="733"
+         height="460"
+         id="rect309" />
+    </clipPath>
+    <clipPath
+       id="clip1-2">
+      <rect
+         x="133"
+         y="204"
+         width="647"
+         height="343"
+         id="rect312" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g319"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <path
+         d="m 133.5,498.5 h 646 m -646,-49 h 646 m -646,-49 h 646 m -646,-49 h 646 m -646,-49 h 646 m -646,-49 h 646 m -646,-49 h 646"
+         stroke="#d9d9d9"
+         stroke-width="0.982677"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         id="path317" />
+    </g>
+    <g
+       id="g323"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <path
+         d="m 226.5,204.5 v 342 m 92,-342 v 342 m 92,-342 v 342 m 92,-342 v 342 m 93,-342 v 342 m 92,-342 v 342 m 92,-342 v 342"
+         stroke="#d9d9d9"
+         stroke-width="0.982677"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         id="path321" />
+    </g>
+    <g
+       id="g327"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <path
+         d="M 0,0 1.04987e-4,342"
+         stroke="#bfbfbf"
+         stroke-width="0.982677"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,133.5,546.5)"
+         id="path325" />
+    </g>
+    <g
+       id="g331"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <path
+         d="m 130.5,546.5 h 3 m -3,-48 h 3 m -3,-49 h 3 m -3,-49 h 3 m -3,-49 h 3 m -3,-49 h 3 m -3,-49 h 3 m -3,-49 h 3"
+         stroke="#bfbfbf"
+         stroke-width="0.982677"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         id="path329" />
+    </g>
+    <g
+       id="g335"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <path
+         d="m 133.5,546.5 h 646"
+         stroke="#bfbfbf"
+         stroke-width="0.982677"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path333" />
+    </g>
+    <g
+       id="g339"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <path
+         d="m 133.5,546.5 v 4 m 93,-4 v 4 m 92,-4 v 4 m 92,-4 v 4 m 92,-4 v 4 m 93,-4 v 4 m 92,-4 v 4 m 92,-4 v 4"
+         stroke="#bfbfbf"
+         stroke-width="0.982677"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         id="path337" />
+    </g>
+    <g
+       clip-path="url(#clip1-2)"
+       id="g343"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <path
+         d="m 143,238 c 3.077,30.157 6.155,68.713 9.232,90.471 2.88,20.362 6.353,30.103 9.233,40.081 3.077,10.662 6.155,17.193 9.232,23.892 2.182,4.75 2.687,9.598 9.232,16.306 9.233,9.46 30.775,30.729 46.162,40.46 15.387,9.73 30.774,13.156 46.162,17.924 15.387,4.768 30.774,7.689 46.161,10.685 15.387,2.996 30.775,5.18 46.162,7.292 15.387,2.112 23.081,3.226 46.161,5.383 23.081,2.156 61.549,5.437 92.324,7.555 30.774,2.119 61.548,3.663 92.323,5.156 30.774,1.494 61.549,2.679 92.323,3.807 30.774,1.127 61.549,2.067 92.323,2.958 30.775,0.89 61.549,1.657 92.324,2.384 30.774,0.727 61.548,1.367 92.323,1.975 30.774,0.608 61.553,1.114 92.323,1.671"
+         stroke="#4f81bd"
+         stroke-width="2.00315"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         id="path341" />
+    </g>
+    <g
+       id="g373"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <path
+         d="m 146.714,237.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path345" />
+      <path
+         d="m 155.714,328.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path347" />
+      <path
+         d="m 164.714,368.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path349" />
+      <path
+         d="m 173.714,392.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path351" />
+      <path
+         d="m 183.714,408.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path353" />
+      <path
+         d="m 229.714,449.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path355" />
+      <path
+         d="m 275.714,467.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path357" />
+      <path
+         d="m 321.714,477.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path359" />
+      <path
+         d="m 367.714,485.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path361" />
+      <path
+         d="m 413.714,490.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path363" />
+      <path
+         d="m 505.714,498.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path365" />
+      <path
+         d="m 598.714,503.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path367" />
+      <path
+         d="m 690.714,507.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path369" />
+      <path
+         d="m 782.714,510.338 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3 z"
+         stroke="#4a7ebb"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#4f81bd"
+         id="path371" />
+    </g>
+    <g
+       id="g377"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(107.667,550)"
+         id="text375">0,0</text>
+    </g>
+    <g
+       id="g381"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(107.667,501)"
+         id="text379">0,5</text>
+    </g>
+    <g
+       id="g385"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(107.667,452)"
+         id="text383">1,0</text>
+    </g>
+    <g
+       id="g389"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(107.667,403)"
+         id="text387">1,5</text>
+    </g>
+    <g
+       id="g393"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(107.667,354)"
+         id="text391">2,0</text>
+    </g>
+    <g
+       id="g397"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(107.667,306)"
+         id="text395">2,5</text>
+    </g>
+    <g
+       id="g401"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(107.667,257)"
+         id="text399">3,0</text>
+    </g>
+    <g
+       id="g405"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(107.667,208)"
+         id="text403">3,5</text>
+    </g>
+    <g
+       id="g409"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(130.88,566)"
+         id="text407">0</text>
+    </g>
+    <g
+       id="g413"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(223.146,566)"
+         id="text411">1</text>
+    </g>
+    <g
+       id="g417"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(315.411,566)"
+         id="text415">2</text>
+    </g>
+    <g
+       id="g421"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(407.677,566)"
+         id="text419">3</text>
+    </g>
+    <g
+       id="g425"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(499.943,566)"
+         id="text423">4</text>
+    </g>
+    <g
+       id="g429"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(592.209,566)"
+         id="text427">5</text>
+    </g>
+    <g
+       id="g433"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(684.475,566)"
+         id="text431">6</text>
+    </g>
+    <g
+       id="g437"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(776.74,566)"
+         id="text435">7</text>
+    </g>
+    <g
+       id="g441"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="19px"
+         transform="rotate(-90)"
+         id="text439"
+         x="-488.90411"
+         y="88.069099">v Bahngeschwindigkeit [A.E./Jahr]</text>
+    </g>
+    <g
+       id="g445"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(398.257,588)"
+         id="text443">r Bahnradius [A.E.]</text>
+    </g>
+    <g
+       id="g449"
+       transform="matrix(0.39690393,0,0,0.41009289,-22.028347,-41.249778)">
+      <text
+         fill="#595959"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="24px"
+         transform="translate(336.637,182)"
+         id="text447">Kepler Kreisbahnen</text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3206"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3208);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="717"
+         y="287.39062"
+         id="tspan7996">v = r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="216.42915"
+       y="75.141663"
+       id="text13822"><tspan
+         sodipodi:role="line"
+         id="tspan13820"
+         style="font-size:65%;baseline-shift:super;stroke-width:0.264583"
+         x="216.42915"
+         y="75.141663">-½</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="196.05626"
+       y="203.46458"
+       id="text1605"><tspan
+         sodipodi:role="line"
+         id="tspan1603"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="196.05626"
+         y="203.46458">Dietrich Kracht 20240606 Rotationskurve Kepler.svg</tspan></text>
+  </g>
+</svg>
