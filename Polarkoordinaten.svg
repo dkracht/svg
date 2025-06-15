@@ -319,8 +319,7 @@
          id="tspan32"
          style="stroke-width:0.264583"
          x="165.89433"
-         y="56.620804">z = r e <tspan
-   style="font-size:65%;baseline-shift:super"
+         y="56.620804">z = r e <tspan font-size="65%" dy="-2"
    id="tspan33">i φ</tspan></tspan></text>
   </g>
   <metadata
