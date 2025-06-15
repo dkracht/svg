@@ -3,8 +3,8 @@
 
 <svg
    width="220mm"
-   height="210mm"
-   viewBox="0 0 220 210"
+   height="172mm"
+   viewBox="0 0 220 172"
    version="1.1"
    id="svg5"
    inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
@@ -113,7 +113,7 @@
        x2="227.67395"
        y2="34.924999"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.12931032,0,0,0.12931032,95.971654,58.388524)" />
+       gradientTransform="matrix(0.12931032,0,0,0.12931032,95.971654,23.463502)" />
   </defs>
   <g
      inkscape:label="Ebene 1"
@@ -123,203 +123,203 @@
        style="fill:none;stroke-width:0.261698;stroke-dasharray:2.09358, 0.523396, 0.261698, 0.523396"
        id="path853"
        cx="78.471329"
-       cy="88.736023"
+       cy="53.810989"
        rx="15.738778"
        ry="19.020285" />
     <ellipse
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.695377;stroke-miterlimit:4;stroke-dasharray:0.173843, 0.173843;stroke-dashoffset:0;stroke-opacity:1"
        id="path855"
        cx="93.284424"
-       cy="114.63982"
+       cy="79.71479"
        rx="59.958687"
        ry="60.288311" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.261698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="M 7.1838788,115.72671 H 177.90308 v 0"
+       d="M 7.1838788,80.801601 H 177.90308 v 0"
        id="path1024" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.266006;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 92.677462,115.26549 124.20406,62.471134 v 0"
+       d="M 92.677462,80.340384 124.20406,27.546112 v 0"
        id="path1720" />
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="105.05686"
-       y="86.392662"
+       y="51.467628"
        id="text12296"><tspan
          sodipodi:role="line"
          id="tspan12294"
          style="stroke-width:0.264583"
          x="105.05686"
-         y="86.392662">r</tspan></text>
+         y="51.467628">r</tspan></text>
     <circle
        id="path1"
        style="fill:#000000;stroke:none;stroke-width:0.264583"
        cx="213.82535"
-       cy="150.35162"
+       cy="115.42696"
        r="0.39687499" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.368456;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4.42147, 4.42147;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 123.98229,63.329793 -0.71605,52.206997"
+       d="m 123.98229,28.404771 -0.71605,52.20691"
        id="path5" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 123.0951,62.796268 90.876944,62.425944"
+       d="M 123.0951,27.871246 90.876944,27.500922"
        id="path6" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-6)"
-       d="M 92.255815,189.23566 92.626132,42.216956"
+       d="M 92.255815,154.31044 92.626132,7.2919358"
        id="path16" />
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="99.394829"
-       y="68.139648"
+       y="33.214615"
        id="text16"><tspan
          sodipodi:role="line"
          id="tspan16"
          style="stroke-width:0.264583"
          x="99.394829"
-         y="68.139648">x</tspan></text>
+         y="33.214615">x</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="125.5294"
-       y="91.258591"
+       y="56.333557"
        id="text17"><tspan
          sodipodi:role="line"
          id="tspan17"
          style="stroke-width:0.264583"
          x="125.5294"
-         y="91.258591">y</tspan></text>
+         y="56.333557">y</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="102.19572"
-       y="200.46834"
+       y="165.54381"
        id="text18"><tspan
          sodipodi:role="line"
          id="tspan18"
          style="font-size:4.93889px;stroke-width:0.264583"
          x="102.19572"
-         y="200.46834">Polarkoordinaten 15.06.2025 Dietrich Kracht</tspan></text>
+         y="165.54381">Polarkoordinaten 15.06.2025 Dietrich Kracht</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';stroke-width:0.264583"
        x="98.865662"
-       y="112.20823"
+       y="77.283211"
        id="text21"><tspan
          sodipodi:role="line"
          id="tspan21"
          style="stroke-width:0.264583"
          x="98.865662"
-         y="112.20823">φ</tspan></text>
+         y="77.283211">φ</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.085869;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow1Lend-6)"
        id="path22"
        sodipodi:type="arc"
        sodipodi:cx="95.349953"
-       sodipodi:cy="-115.68741"
+       sodipodi:cy="-80.762367"
        sodipodi:rx="13.810401"
        sodipodi:ry="11.908236"
        sodipodi:start="0"
        sodipodi:end="1.2588401"
        sodipodi:arc-type="arc"
-       d="m 109.16035,-115.68741 a 13.810401,11.908236 0 0 1 -9.571695,11.33349"
+       d="m 109.16035,-80.762367 a 13.810401,11.908236 0 0 1 -9.571695,11.333484"
        sodipodi:open="true"
        transform="scale(1,-1)" />
     <text
        xml:space="preserve"
        style="font-size:7.29456px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';stroke-width:0.264583"
        x="165.10059"
-       y="58.605209"
+       y="23.680176"
        id="text22"><tspan
          sodipodi:role="line"
          id="tspan22"
          style="stroke-width:0.264583"
          x="165.10059"
-         y="58.605209">x = r cos φ</tspan></text>
+         y="23.680176">x = r cos φ</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.29456px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';stroke-width:0.264583"
        x="165.49747"
-       y="67.204163"
+       y="32.279129"
        id="text23"><tspan
          sodipodi:role="line"
          id="tspan23"
          style="stroke-width:0.264583"
          x="165.49747"
-         y="67.204163">y = r sin φ</tspan></text>
+         y="32.279129">y = r sin φ</tspan></text>
     <path
        style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583"
        id="path28"
        sodipodi:type="arc"
        sodipodi:cx="151.47455"
-       sodipodi:cy="37.372395"
+       sodipodi:cy="2.4473805"
        sodipodi:rx="1.984375"
        sodipodi:ry="1.7859374"
        sodipodi:start="0"
        sodipodi:end="1.2588401"
        sodipodi:open="true"
        sodipodi:arc-type="arc"
-       d="m 153.45892,37.372395 a 1.984375,1.7859374 0 0 1 -1.37533,1.699739" />
+       d="m 153.45892,2.4473805 a 1.984375,1.7859374 0 0 1 -1.37533,1.6997392" />
     <path
        style="fill:url(#linearGradient29);fill-rule:evenodd;stroke-width:0.0342133"
        id="path29"
        sodipodi:type="arc"
        sodipodi:cx="124.42085"
-       sodipodi:cy="62.904686"
+       sodipodi:cy="27.979652"
        sodipodi:rx="0.99218726"
        sodipodi:ry="0.99218726"
        sodipodi:start="1.2714301"
        sodipodi:end="1.2588401"
        sodipodi:arc-type="slice"
-       d="m 124.71346,63.852744 a 0.99218726,0.99218726 0 0 1 -1.23974,-0.652465 0.99218726,0.99218726 0 0 1 0.64856,-1.241791 0.99218726,0.99218726 0 0 1 1.24383,0.644649 0.99218726,0.99218726 0 0 1 -0.64073,1.245848 l -0.30453,-0.944299 z" />
+       d="m 124.71346,28.927711 a 0.99218726,0.99218726 0 0 1 -1.23974,-0.652465 0.99218726,0.99218726 0 0 1 0.64856,-1.241791 0.99218726,0.99218726 0 0 1 1.24383,0.644648 0.99218726,0.99218726 0 0 1 -0.64073,1.245849 l -0.30453,-0.9443 z" />
     <path
        style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583"
        id="path30"
        sodipodi:type="arc"
        sodipodi:cx="175.41934"
-       sodipodi:cy="29.236458"
+       sodipodi:cy="-5.6885486"
        sodipodi:rx="0.13229166"
        sodipodi:ry="1.7197917"
        sodipodi:start="1.2714301"
        sodipodi:end="1.2588401"
        sodipodi:arc-type="slice"
-       d="m 175.45836,30.879759 a 0.13229166,1.7197917 0 0 1 -0.1653,-1.13094 0.13229166,1.7197917 0 0 1 0.0865,-2.152437 0.13229166,1.7197917 0 0 1 0.16585,1.11739 0.13229166,1.7197917 0 0 1 -0.0854,2.159472 l -0.0406,-1.636786 z" />
+       d="m 175.45836,-4.0452471 a 0.13229166,1.7197917 0 0 1 -0.1653,-1.1309399 0.13229166,1.7197917 0 0 1 0.0865,-2.1524377 0.13229166,1.7197917 0 0 1 0.16585,1.1173903 0.13229166,1.7197917 0 0 1 -0.0854,2.1594717 l -0.0406,-1.6367859 z" />
     <text
        xml:space="preserve"
        style="font-size:7.29456px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';stroke-width:0.264583"
        x="125.41304"
-       y="61.251041"
+       y="26.326008"
        id="text30"><tspan
          sodipodi:role="line"
          id="tspan30"
          style="stroke-width:0.264583"
          x="125.41304"
-         y="61.251041">z</tspan></text>
+         y="26.326008">z</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.29456px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';stroke-width:0.264583"
        x="165.62975"
-       y="82.020836"
+       y="47.095802"
        id="text31"><tspan
          sodipodi:role="line"
          id="tspan31"
          style="stroke-width:0.264583"
          x="165.62975"
-         y="82.020836">z = x + iy</tspan></text>
+         y="47.095802">z = x + iy</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.29456px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';stroke-width:0.264583"
        x="165.89433"
-       y="91.545837"
+       y="56.620804"
        id="text32"><tspan
          sodipodi:role="line"
          id="tspan32"
          style="stroke-width:0.264583"
          x="165.89433"
-         y="91.545837">z = r e <tspan
+         y="56.620804">z = r e <tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan33">i φ</tspan></tspan></text>
   </g>
