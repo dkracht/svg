@@ -29,9 +29,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0846324"
-     inkscape:cx="526.90663"
-     inkscape:cy="301.02365"
+     inkscape:zoom="6.1356074"
+     inkscape:cx="881.81979"
+     inkscape:cy="281.39023"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="1052.3622px"
@@ -417,7 +417,7 @@
          id="tspan2266"
          x="561.42859"
          y="339.52304"
-         style="font-size:14px;line-height:1.25">BE = BD / cos phi</tspan></text>
+         style="font-size:14px;line-height:1.25">BE = BD / cos pφhi</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -429,6 +429,17 @@
          x="842.81763"
          y="415.51385"
          style="font-size:14px;line-height:1.25">BE = (sin delta) / (cos phi)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="843"
+       y="425"
+       id="text2325a"><tspan
+         sodipodi:role="line"
+         id="tspan2272a"
+         x="843"
+         y="425"
+         style="font-size:14px;line-height:1.25">Test Nord Test</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
@@ -461,7 +472,7 @@
          id="tspan2268"
          x="842.93896"
          y="263.39404"
-         style="font-size:14px;line-height:1.25">BD = sin delta</tspan><tspan
+         style="font-size:14px;line-height:1.25">BD = sin dδelta</tspan><tspan
          sodipodi:role="line"
          id="tspan2270"
          x="842.93896"
