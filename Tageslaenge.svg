@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   version="1.0"
+   sodipodi:docname="Tageslaenge.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0846324"
+     inkscape:cx="526.44564"
+     inkscape:cy="372.01544"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="1052.3622px"
+     height="744.09449px"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Berechnung der Tageslänge</dc:title>
+        <dc:date>26.6.2007</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Dietrich Kracht</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Astronomie</rdf:li>
+            <rdf:li>Sonne</rdf:li>
+            <rdf:li>Aufgang</rdf:li>
+            <rdf:li>Untergang</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.13913751;stroke-opacity:1"
+       id="rect2162"
+       width="598.8609"
+       height="598.86084"
+       x="200.56958"
+       y="44.664082" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.00099716px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 106.64336,357.45113 L 886.21379,357.45113"
+       id="path3136" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99319512px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 259.57082,662.65478 L 740.42918,24.534179"
+       id="path3138" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.44544831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 500.22272,4.3172041 L 500.77728,703.87176"
+       id="path3140" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="path3160"
+       sodipodi:cx="555"
+       sodipodi:cy="387.66592"
+       sodipodi:rx="280.71429"
+       sodipodi:ry="280.71429"
+       d="M 835.71429 387.66592 A 280.71429 280.71429 0 1 1  274.28571,387.66592 A 280.71429 280.71429 0 1 1  835.71429 387.66592 z"
+       transform="matrix(1.0668021,0,0,1.0668021,-92.075165,-69.468372)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:4,2;stroke-dashoffset:0"
+       d="M 50.230638,343.32511 L 949.76936,343.86384"
+       id="path3164" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="615.71484"
+       y="680.99139"
+       id="text2"><tspan
+         sodipodi:role="line"
+         x="615.71484"
+         y="680.99139"
+         id="tspan2"><tspan
+           x="615.71484"
+           y="680.99139"
+           style="font-size:14px;line-height:1.25"
+           id="tspan1">Berechnung der Tageslänge, 26.06.2007</tspan></tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.54434079px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 500.83468,342.45939 L 303.73674,-4.9847229 L 303.73674,-4.9847229"
+       id="path3174" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.21505091px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 852.0009,460.74639 L 289.42767,35.982664"
+       id="path3202" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="372.71075"
+       y="-20.398373"
+       id="text3212"
+       transform="rotate(37.719662)"><tspan
+         sodipodi:role="line"
+         x="372.71075"
+         y="-20.398373"
+         id="tspan3216"
+         style="font-size:14px;line-height:1.25">Himmelsäquator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="232.50023"
+       y="600.09833"
+       id="text4189"
+       transform="rotate(-52.280338)"><tspan
+         sodipodi:role="line"
+         id="tspan2257"
+         x="232.50023"
+         y="600.09833"
+         style="font-size:14px;line-height:1.25">Polarachse</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4193"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       transform="translate(-26,10)"><flowRegion
+         id="flowRegion4195"><rect
+           id="rect4197"
+           width="130"
+           height="54.285713"
+           x="830"
+           y="308.38019"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
+         id="flowPara2311"
+         style="font-size:20px;line-height:1.25">Nord</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4201"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       transform="translate(-678.80915,9.5909421)"><flowRegion
+         id="flowRegion4203"><rect
+           id="rect4205"
+           width="130"
+           height="54.285713"
+           x="830"
+           y="308.38019"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
+         id="flowPara2313"
+         style="font-size:20px;line-height:1.25">Süd</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4211"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       transform="translate(-360.54241,-287.83763)"><flowRegion
+         id="flowRegion4213"><rect
+           id="rect4215"
+           width="130"
+           height="54.285713"
+           x="830"
+           y="308.38019"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
+         id="flowPara4219"
+         style="font-size:20px;line-height:1.25">Zenith</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2197"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       transform="translate(-453.68526,-238.12334)"><flowRegion
+         id="flowRegion2199"><rect
+           id="rect2201"
+           width="130"
+           height="54.285713"
+           x="830"
+           y="308.38019"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
+         id="flowPara2257"
+         style="font-size:24px;line-height:1.25">C</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2207"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       transform="translate(-131.43248,8.5412801)"><flowRegion
+         id="flowRegion2209"><rect
+           id="rect2211"
+           width="130"
+           height="54.285713"
+           x="830"
+           y="308.38019"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
+         id="flowPara2264"
+         style="font-size:24px;line-height:1.25">E</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2217"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       transform="translate(-243.95843,-75.744437)"><flowRegion
+         id="flowRegion2219"><rect
+           id="rect2221"
+           width="130"
+           height="54.285713"
+           x="830"
+           y="308.38019"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
+         id="flowPara2259"
+         style="font-size:24px;line-height:1.25">D</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2227"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       transform="translate(-550.86105,-160.03016)"><flowRegion
+         id="flowRegion2229"><rect
+           id="rect2231"
+           width="130"
+           height="54.285713"
+           x="830"
+           y="308.38019"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
+         id="flowPara2233"
+         style="font-size:24px;line-height:1.25">A</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2245"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       transform="translate(-309.67271,12.541277)"><flowRegion
+         id="flowRegion2247"><rect
+           id="rect2249"
+           width="130"
+           height="54.285713"
+           x="830"
+           y="308.38019"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
+         id="flowPara2251"
+         style="font-size:24px;line-height:1.25">B</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2255"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       transform="translate(-157.64621,-260.31587)"><flowRegion
+         id="flowRegion2257"><rect
+           id="rect2259"
+           width="130"
+           height="54.285713"
+           x="830"
+           y="308.38019"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
+         id="flowPara2263"
+         style="font-size:20px;line-height:1.25">Himmelspol</flowPara><flowPara
+         id="flowPara8211"
+         style="font-size:20px;line-height:1.25">(Nord)</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="30.000559"
+       y="55.812572"
+       id="text16"><tspan
+         sodipodi:role="line"
+         x="30.000559"
+         y="55.812572"
+         id="tspan12"><tspan
+           x="30.000559"
+           y="55.812572"
+           style="font-size:14px;line-height:1"
+           id="tspan10">Obere Hälfte: Seitenriss </tspan><tspan
+           dx="0"
+           x="182.51033"
+           y="55.812572"
+           style="font-size:14px;line-height:1"
+           id="tspan11" /></tspan><tspan
+         sodipodi:role="line"
+         x="30.000559"
+         y="69.812576"
+         id="tspan14"><tspan
+           x="30.000559"
+           y="69.812576"
+           style="font-size:14px;line-height:1"
+           id="tspan13">d.h. Meridianebene </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="30.000559"
+         y="83.812576"
+         id="tspan16"><tspan
+           x="30.000559"
+           y="83.812576"
+           style="font-size:14px;line-height:1"
+           id="tspan15">oberhalb des Horizonts.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       x="28.273159"
+       y="608.03497"
+       id="text9"><tspan
+         sodipodi:role="line"
+         x="28.273159"
+         y="608.03497"
+         id="tspan5"><tspan
+           x="28.273159"
+           y="608.03497"
+           style="font-size:14px;line-height:1"
+           id="tspan3">Untere Hälfte: Grundriss</tspan><tspan
+           dx="0"
+           x="179.2175"
+           y="608.03497"
+           style="font-size:14px;line-height:1"
+           id="tspan4" /></tspan><tspan
+         sodipodi:role="line"
+         x="28.273159"
+         y="622.03497"
+         id="tspan7"><tspan
+           x="28.273159"
+           y="622.03497"
+           style="font-size:14px;line-height:1"
+           id="tspan6">d.h. östliche Hälfte der </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="28.273159"
+         y="636.03497"
+         id="tspan9"><tspan
+           x="28.273159"
+           y="636.03497"
+           style="font-size:14px;line-height:1"
+           id="tspan8">Horizontebene</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2299"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       transform="translate(-348.50921,341.2578)"><flowRegion
+         id="flowRegion2301"><rect
+           id="rect2303"
+           width="130"
+           height="54.285713"
+           x="830"
+           y="308.38019"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
+         id="flowPara8207"
+         style="font-size:20px;line-height:1.25">Ost</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="53.879532"
+       y="601.74591"
+       id="text2315"
+       transform="rotate(-52.280338)"><tspan
+         sodipodi:role="line"
+         id="tspan2261"
+         x="53.879532"
+         y="601.74591"
+         style="font-size:14px;line-height:1.25">BD = sin delta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="561.42859"
+       y="339.52304"
+       id="text2321"><tspan
+         sodipodi:role="line"
+         id="tspan2266"
+         x="561.42859"
+         y="339.52304"
+         style="font-size:14px;line-height:1.25">BE = BD / cos phi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="842.81763"
+       y="415.51385"
+       id="text2325"><tspan
+         sodipodi:role="line"
+         id="tspan2272"
+         x="842.81763"
+         y="415.51385"
+         style="font-size:14px;line-height:1.25">BE = (sin delta) / (cos phi)</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2335"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       transform="translate(-125.93192,257.1127)"><flowRegion
+         id="flowRegion2337"><rect
+           id="rect2339"
+           width="130"
+           height="54.285713"
+           x="830"
+           y="308.38019"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
+         id="flowPara2490"
+         style="font-size:24px;line-height:1.25">F</flowPara></flowRoot>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00467694px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 500.50234,344.09682 L 699.49766,569.80643"
+       id="path2345" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99597681px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 499.39922,341.56825 L 260.60078,161.62071"
+       id="path2351" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="842.93896"
+       y="263.39404"
+       id="text8167"><tspan
+         sodipodi:role="line"
+         id="tspan2268"
+         x="842.93896"
+         y="263.39404"
+         style="font-size:14px;line-height:1.25">BD = sin delta</tspan><tspan
+         sodipodi:role="line"
+         id="tspan2270"
+         x="842.93896"
+         y="280.89404"
+         style="font-size:14px;line-height:1.25">BD/BE = cos phi</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 699.00626,567.96692 L 699.00626,343.40428"
+       id="path8183" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8191"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       transform="translate(-679.49134,37.732086)"><flowRegion
+         id="flowRegion8193"><rect
+           id="rect8195"
+           width="130"
+           height="54.285713"
+           x="830"
+           y="308.38019"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
+         id="flowPara8197"
+         style="font-size:20px;line-height:1.25">Süd</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8199"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       transform="translate(-24.913685,37.591461)"><flowRegion
+         id="flowRegion8201"><rect
+           id="rect8203"
+           width="130"
+           height="54.285713"
+           x="830"
+           y="308.38019"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
+         id="flowPara8205"
+         style="font-size:20px;line-height:1.25">Nord</flowPara></flowRoot>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 430.64291,290.86046 C 448.99819,264.03352 458.8818,271.09324 458.8818,271.09324"
+       id="path8209"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
