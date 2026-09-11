@@ -30,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0846324"
-     inkscape:cx="526.44564"
+     inkscape:cx="526.90663"
      inkscape:cy="372.01544"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -186,20 +186,20 @@
            style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
          id="flowPara2311"
          style="font-size:20px;line-height:1.25">Nord</flowPara></flowRoot>
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot4201"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
-       transform="translate(-678.80915,9.5909421)"><flowRegion
-         id="flowRegion4203"><rect
-           id="rect4205"
-           width="130"
-           height="54.285713"
-           x="830"
-           y="308.38019"
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
-         id="flowPara2313"
-         style="font-size:20px;line-height:1.25">Süd</flowPara></flowRoot>
+       x="151.19086"
+       y="335.98688"
+       id="text18"><tspan
+         sodipodi:role="line"
+         x="151.19086"
+         y="335.98688"
+         id="tspan18"><tspan
+           x="151.19086"
+           y="335.98688"
+           style="font-size:20px;line-height:1.25"
+           id="tspan17">Süd</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4211"
@@ -214,20 +214,20 @@
            style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
          id="flowPara4219"
          style="font-size:20px;line-height:1.25">Zenith</flowPara></flowRoot>
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot2197"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
-       transform="translate(-453.68526,-238.12334)"><flowRegion
-         id="flowRegion2199"><rect
-           id="rect2201"
-           width="130"
-           height="54.285713"
-           x="830"
-           y="308.38019"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
-         id="flowPara2257"
-         style="font-size:24px;line-height:1.25">C</flowPara></flowRoot>
+       x="376.31473"
+       y="91.875626"
+       id="text24"><tspan
+         sodipodi:role="line"
+         x="376.31473"
+         y="91.875626"
+         id="tspan24"><tspan
+           x="376.31473"
+           y="91.875626"
+           style="font-size:24px;line-height:1.25"
+           id="tspan23">C</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2207"
@@ -256,20 +256,20 @@
            style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
          id="flowPara2259"
          style="font-size:24px;line-height:1.25">D</flowPara></flowRoot>
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot2227"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
-       transform="translate(-550.86105,-160.03016)"><flowRegion
-         id="flowRegion2229"><rect
-           id="rect2231"
-           width="130"
-           height="54.285713"
-           x="830"
-           y="308.38019"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
-         id="flowPara2233"
-         style="font-size:24px;line-height:1.25">A</flowPara></flowRoot>
+       x="279.13895"
+       y="169.9688"
+       id="text22"><tspan
+         sodipodi:role="line"
+         x="279.13895"
+         y="169.9688"
+         id="tspan22"><tspan
+           x="279.13895"
+           y="169.9688"
+           style="font-size:24px;line-height:1.25"
+           id="tspan21">A</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2245"
@@ -460,20 +460,20 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 699.00626,567.96692 L 699.00626,343.40428"
        id="path8183" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot8191"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start"
-       transform="translate(-679.49134,37.732086)"><flowRegion
-         id="flowRegion8193"><rect
-           id="rect8195"
-           width="130"
-           height="54.285713"
-           x="830"
-           y="308.38019"
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Arial" /></flowRegion><flowPara
-         id="flowPara8197"
-         style="font-size:20px;line-height:1.25">Süd</flowPara></flowRoot>
+       x="150.50867"
+       y="364.12802"
+       id="text20"><tspan
+         sodipodi:role="line"
+         x="150.50867"
+         y="364.12802"
+         id="tspan20"><tspan
+           x="150.50867"
+           y="364.12802"
+           style="font-size:20px;line-height:1.25"
+           id="tspan19">Süd</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot8199"
